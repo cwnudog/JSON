@@ -1,10 +1,11 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.3",
     "build": "1",
     "downloadUrl": "https://github.com/cwnudog/JSON/releases/download/V1.0.2/MD5.V1.0.2.exe",
     "release_date": "2025-11-28",
     "changelog": "1、更新[MD5_CONFIG]标识符，2、新增在线MD5版本校验功能，3、新增版本不一致，远程文件下载功能"
 }
+
 
 
 
